@@ -1,12 +1,10 @@
-# untitled8
+# PROYEC-GES-G2 
 
-A new Flutter project.
+LEE ME!!.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+  INGRESAR EL MAIN Y LA IMAGEN EN LA CARPETAS CORRESPONDIENTES PARA SU CORRECTA EJECUCION!!!:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
